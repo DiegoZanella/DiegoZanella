@@ -1,21 +1,40 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<H1> Diego Zanella </H1>
 
-<!--
-**DiegoZanella/DiegoZanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Diego. Here you can check out some of my personal projects.
 
-Here are some ideas to get you started:
+<div class="project">
+  <div id="header"> <H2> <a href="https://github.com/DiegoZanella/Glucobot">Glucobot</a> </H2>  </div>
+	<H5> <a href="https://t.me/Main_GlucoBot"> @MainGlucobot </a></H5>
+  
+  <p> Glucobot is a telegram bot designed to help diabetic patients keep track of their insuline levels. You can use glucobot to register your glucose levels before and after each meal, also you can your medicine intake time in the morning and in the evening. Whenever you want access to your records, you can ask Glucobot to make you a .xlsx file which you can download. </p> 
+	
+	<img width="633" alt="Glucobot1" src="https://github.com/DiegoZanella/DiegoZanella/assets/86632268/6e3a6ebc-0c01-4249-986e-ce0cb708da06">
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hola! Soy Diego. Este es un mapa que hice con Tableau
-<div class='tableauPlaceholder' id='viz1685344216513' style='position: relative'><noscript><a href='#'><img alt='Ganador Nacional ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Presidencial&#47;GanadorNacional&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Presidencial&#47;GanadorNacional' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Presidencial&#47;GanadorNacional&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1685344216513');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class="project">
+  <H2>CinetecaBot</H2>
+  <H5> https://t.me/CarteleraCineteca</H5>
 
+  <p> Telegram bot designed publish the movie scheduled of the Cineteca Nacional (Mexico) in a telegram channel in a friendly user way. </p>
+  
+  
+  
+</div>
 
-<iframe src="https://public.tableau.com/views/Presidencial/GanadorNacional?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
+<div class="project">
+  <H2> Electoral analysis: Governor Mexico State 2023 </H2>
+  <p> Analysis and visualization of electoral data regarding the 2023 Mexico State election for governor.
+  </p>
+</div>
+
+<div class="project">
+  <H2> Electoral analysis: President Mexico State 2018 </H2>
+  <p> Analysis and visualization of electoral data regarding the 2023 Mexico election for president.
+  </p>
+</div>
+</html>
