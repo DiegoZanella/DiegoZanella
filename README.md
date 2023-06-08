@@ -12,7 +12,8 @@ Here you can check out some of my personal projects. To check the source code of
   
   <p> Glucobot is a telegram bot designed to help diabetic patients keep track of their insuline levels. You can use glucobot to register your glucose levels before and after each meal, also you can your medicine intake time in the morning and in the evening. Whenever you want access to your records, you can ask Glucobot to make you a .xlsx file which you can download. </p> 
 	
-  
+  <img width="618" alt="Glucobot3" src="https://github.com/DiegoZanella/DiegoZanella/assets/86632268/530ee19f-4242-495c-854b-627c3d821ee7">
+
 </div>
 
 <div class="project">
