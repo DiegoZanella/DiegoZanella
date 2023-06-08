@@ -4,7 +4,7 @@
 </head>
 <H1> Diego Zanella </H1>
 
-Hi, I am Diego. Here you can check out some of my personal projects.
+Here you can check out some of my personal projects. To check the source code of each project just click on the title.
 
 <div class="project">
   <div id="header"> <H2> <a href="https://github.com/DiegoZanella/Glucobot">Glucobot</a> </H2>  </div>
