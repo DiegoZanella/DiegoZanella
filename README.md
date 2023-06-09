@@ -51,7 +51,7 @@ This is a work under progress, but you can have this preview
   </p>
 The goal of this project was to create a series of visualizations of the results of the election at the state and municipal level. These visualizations show the winner of the election at each of these levels. 
 The databases for this project were downloaded from the Electoral National Institute (INE) and the Statistics and Geography National Institue (INEGI) websites. From the INE website I downloaded the database of the electoral results which then I cleaned using Pandas. From the INEGI website I downloaded the municipal poligons .shp files. The visualizations were made using Tableau.
-Click <a href="	https://public.tableau.com/views/Presidencial/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">here</a> to check this maps at Tableau Public website.	
+Click <a href="https://public.tableau.com/views/Presidencial/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">here</a> to interact with these maps at Tableau Public website.	
 	  <div align="center">	
 	<img width="350" alt="Screenshot 2023-06-08 at 19 33 12" src="https://github.com/DiegoZanella/DiegoZanella/assets/86632268/67a056f8-f42f-4067-9005-0ebe1ee6b162">
 <img width="350" alt="Screenshot 2023-06-08 at 19 33 24" src="https://github.com/DiegoZanella/DiegoZanella/assets/86632268/86e00045-01d8-4bc5-8caa-4bca7acec4a1">
